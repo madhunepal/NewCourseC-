@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     internal class Program
     {
+        public int Myno { get; set; }
         static void Main(string[] args)
         {
             Console.WriteLine("helloe world");
